@@ -4,8 +4,8 @@ Simple CLI mock server. Uses a JSON spec to setup a web server with stubbed resu
 
 Available in three implementations:
 - **TypeScript** - Uses Express.js
-- **Python** - Uses Flask [doppelganger-py](https://github.com/AndreOctavio/doppelganger-py)
-- **Go** - Uses the Golang Gin framework [doppelganger](https://github.com/dsa-ferreira/doppelganger)
+- **Python** - Uses Flask [[doppelganger-py](https://github.com/AndreOctavio/doppelganger-py)]
+- **Go** - Uses the Golang Gin framework [[doppelganger](https://github.com/dsa-ferreira/doppelganger)]
 
 ## Current Features
 

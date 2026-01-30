@@ -17,7 +17,11 @@
     "api",
     "testing"
   ],
-  "author": "",
+  "maintainers": [
+    { "name": "André Ferreira" },
+    { "name": "Diogo Ferreira" },
+    { "name": "Eduardo Barrancos" }
+  ],
   "license": "ISC",
   "dependencies": {
     "commander": "^13.1.0",
